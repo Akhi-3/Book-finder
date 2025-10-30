@@ -1,8 +1,10 @@
 📚 Book Finder Web App
+
 A simple and interactive Book Finder web application built using HTML, CSS, and JavaScript.
 This project uses the Google Books API to search for books and display them in a clean, responsive layout — similar to an e-commerce website.
 
 🚀 Features
+
 ✅ Search for any book by title or keyword
 ✅ Displays book cover, title, author, and a preview link
 ✅ Books are displayed side-by-side using CSS Grid
